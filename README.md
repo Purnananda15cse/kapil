@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Purnananda Baisnab</h1>
-<h3 align="center">B.sc in Computer science and Engineering at IIUC and my favourite field of interest is in Data Science</h3>
+<h4 align="center">B.sc in Computer science and Engineering at IIUC and my favourite field of interest is in Data Science</h4>
 
 - 🔭 I’m currently working on **Machine learning & data science**
 
